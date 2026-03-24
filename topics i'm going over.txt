@@ -1,0 +1,3 @@
+Arithmetic operations in C++
+Ternary operations
+Logical operations
