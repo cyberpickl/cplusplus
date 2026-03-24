@@ -2,7 +2,6 @@
 
 
 typedef std::string string_t;
-
 typedef int number_t;
 
 typedef char c_t;
@@ -17,6 +16,6 @@ int main(){
     std::cout<<"Age = "<<number;
 
     return 0;
-    
+
 
 }
