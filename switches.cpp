@@ -43,7 +43,8 @@ int main(){
         case 12: 
             std::cout<<"It is December";
             break;
-        
+        default:
+            std::cout<<"Please enter a valid input";
     }
 
 
