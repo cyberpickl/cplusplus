@@ -1,3 +1,17 @@
 Arithmetic operations in C++
 Ternary operations
 Logical operations
+
+    while loops 
+    while (something){
+
+        do this 
+    }
+
+another method of achieving the same is do-while loops
+    do{
+    something
+
+
+    }while( if something is true );
+
