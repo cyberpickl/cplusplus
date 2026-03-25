@@ -10,7 +10,7 @@ int main()
     int num = (rand() % 6) + 1; // % 6 gives a remainder thats 0-6, but on a dice we dont have 6 so add 1
     std::cout<<num;
 
-
+// you can use the random number generator + switch case to generate random events 
     return 0;
 }
 
